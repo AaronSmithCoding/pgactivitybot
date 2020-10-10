@@ -1,0 +1,19 @@
+{
+  "name": "pgactivitybot",
+  "version": "1.0.0",
+  "description": "a discord bot for tracking activity and assigning roles",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "pgsmithy89",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.3.1",
+    "dotenv-flow": "^3.2.0",
+    "enmap": "^5.8.0",
+    "eslint": "^7.10.0",
+    "mongoose": "^5.10.8",
+    "nodemon": "^2.0.4"
+  }
+}
